@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2012\Projects\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe.config
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.pdb
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Form1.resources
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Properties.Resources.resources
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.csproj.GenerateResource.Cache
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.exe
+c:\Users\User\Documents\Visual Studio 2012\Projects\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.pdb
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe.config
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.exe
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.pdb
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.csprojResolveAssemblyReference.cache
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Form1.resources
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Properties.Resources.resources
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.csproj.GenerateResource.Cache
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe
+D:\11 E\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.pdb
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe.config
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.exe
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.pdb
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.exe
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\bin\Debug\labirint-drum minim.pdb
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.csprojResolveAssemblyReference.cache
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Form1.resources
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint_drum_minim.Properties.Resources.resources
+D:\DOCs\C#\labirint\labirint-drum minim\labirint-drum minim\obj\Debug\labirint-drum minim.csproj.GenerateResource.Cache

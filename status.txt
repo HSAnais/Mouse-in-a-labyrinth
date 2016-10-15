@@ -1,0 +1,5 @@
+to be improved:
+- pictures (interface)
+- obstacles
+- timer
+- another mouse
